@@ -33,8 +33,11 @@ Invalid date	        =   Alert message
 
 ---
 
-## License
+## License and Copyright
 This project is for education purposes only.
+
+© 2026 Simon Gatuku. All Rights Reserved.
+
 
 ---
 
