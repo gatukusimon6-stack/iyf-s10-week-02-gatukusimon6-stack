@@ -1,18 +1,49 @@
 # Web-foundation
-## My Portfolio Website
 
 ## Description
 This is my first multi-page portfolio website built using HTML and CSS.
 
-## Pages
-- Home
-- About
-- Projects
-- Contact
+---
+
+## Author
+- Simon Gatuku
+
+---
+
+## Live Site
+https://github.com/gatukusimon6-stack/turbo-waffle.git
+
+---
+
+## BDD (Behavior Driven Development)
+Input	                  Output
+
+Valid date + male    =  	Male Akan name
+
+Valid date + female	 =   Female Akan name
+
+Invalid date	        =   Alert message
+
+---
 
 ## Technologies Used
 - HTML5
 - CSS3
+- Javascript
 
-## Live Site
- https://github.com/gatukusimon6-stack/Web-foundation.git
+---
+
+## License
+This project is for education purposes only.
+
+---
+
+## Contact
+For any questions, reach out via GitHub:
+https://github.com/gatukusimon6-stack
+
+
+
+
+
+
