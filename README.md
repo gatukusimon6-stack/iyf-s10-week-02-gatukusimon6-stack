@@ -26,3 +26,6 @@ HOW to code using HTML and applying some CSS
 
 ## Challenges Faced
 Running the code
+
+## Live Demo (if deployed)
+[View Live Demo](http://127.0.0.1:5500/My-Portfolio/index.html)
